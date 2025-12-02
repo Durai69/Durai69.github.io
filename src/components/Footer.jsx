@@ -1,5 +1,5 @@
 import React from "react";
-import { FaInstagram, FaXTwitter, FaLinkedin } from "react-icons/fa6";
+import { FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa6";
 
 const Footer = () => {
   return (
@@ -11,8 +11,8 @@ const Footer = () => {
       >
         <FaInstagram size={24} />
       </a>
-      <a href="https://x.com/Durai" target="_blank" rel="noopener noreferrer">
-        <FaXTwitter size={24} />
+      <a href="https://github.com/Durai69" target="_blank" rel="noopener noreferrer">
+        <FaGithub size={24} />
       </a>
       <a
         href="https://www.linkedin.com/in/durailingam/"
